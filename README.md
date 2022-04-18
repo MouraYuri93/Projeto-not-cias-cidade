@@ -1,11 +1,17 @@
-# Resumo do projeto
-Site de noticias de uma cidade fictícias.
+### 📚 Sobre
 
-## 🔨 Funcionalidades do projeto
+Site de noticias para uma cidade.
+
+### 🎨 Detalhe
+
 Um site criado para conter informações relacionadas cidade e o mundo, nele pode ser navegado em diversas abas contendo informações com diferentes assuntos. 
 
-## ✔️ Técnicas e tecnologias utilizadas
+<hr>
 
-- ``HMTL``
-- ``CSS3``
-- ``Sublime Text``
+### 💻 Tecnologias utilizadas
+
+Neste site foram utilizado as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Sublime Text](https://www.sublimetext.com/)
